@@ -1,0 +1,17 @@
+[
+    {
+        "name": "resetFunc",
+        "private": false,
+        "can_evaluate": {}
+    },
+    {
+        "name": "addurl",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "geturl",
+        "private": false,
+        "run_as_system": true
+    }
+]

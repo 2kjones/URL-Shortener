@@ -1,0 +1,7 @@
+{
+    "app_id": "url-shortener-app-nredx",
+    "config_version": 20210101,
+    "name": "URL-Shortener-App",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}

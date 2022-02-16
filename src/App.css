@@ -1,0 +1,63 @@
+textarea{
+  resize: none;
+  width: 100%;
+}
+
+#full-url{
+  width:100%;
+}
+
+.shorten-button{
+  margin-top: 10px;
+}
+
+.url-shortener-app{
+  height:inherit;
+}
+
+.header {
+  height:25%;
+  margin-left:3%;
+}
+
+.url-form{
+  width: 90%;
+  margin-left: 6%;
+}
+
+.header-text{
+  white-space: nowrap;
+}
+
+.body {
+  width: 75%;
+  margin-top: 18%;
+  margin-bottom: 50%;
+  margin-left: 13%;
+  border: 1px solid;
+  box-shadow: 5px 10px grey;
+  padding: 20px;
+}
+
+.Formtext {
+  width: 100%;
+  white-space: nowrap;
+}
+
+.url-input{
+  width:100%;
+}
+
+.shortend-url {
+  padding-top: 5px;
+}
+
+.footer {
+  height:13%;
+  width:100%;
+  position: fixed;
+  bottom:0px;
+  margin-left: 3%;
+}
+
+
